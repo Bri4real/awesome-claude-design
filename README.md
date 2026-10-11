@@ -19,7 +19,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-68-10b981?style=classic)
-[![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-design?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-claude-design)
+[![Last Update](https://img.shields.io/github/last-commit/Bri4real/awesome-claude-design?label=Last%20update&style=classic)](https://github.com/Bri4real/awesome-claude-design)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
 </div>
